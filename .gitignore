@@ -21,6 +21,10 @@ captures/
 # Memory dumps
 *.hprof
 
+# Compiled files
+*.dex
+*.class
+
 # Log files
 *.log
 npm-debug.log*
