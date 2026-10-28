@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme for Turbo Master (Material 3 NoActionBar) -->
+    <style name="Theme.Turbo" parent="android:Theme.Material.NoActionBar">
+        <!-- Status Bar and Navigation Bar colors -->
+        <item name="android:statusBarColor">@color/turbo_background_dark</item>
+        <item name="android:navigationBarColor">@color/turbo_background_dark</item>
+        <item name="android:windowBackground">@color/turbo_background_dark</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">false</item>
+        <item name="android:windowLightNavigationBar" tools:targetApi="o_mr1">false</item>
+        <item name="android:colorPrimary">@color/turbo_cyan</item>
+    </style>
+</resources>

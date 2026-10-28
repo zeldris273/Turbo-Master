@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Turbo Lightning & Performance Core in Cyan & Sky Blue -->
+    <path
+        android:fillColor="#06B6D4"
+        android:pathData="M58,24L36,56h16l-6,28l26,-36h-18z" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M54,32L40,54h12l-4,20l18,-26h-14z" />
+</vector>
